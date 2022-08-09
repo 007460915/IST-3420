@@ -1,4 +1,0 @@
-name: Post welcom comment
-on:
-  pull_request:
-    types: [opened]
